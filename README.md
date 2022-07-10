@@ -15,7 +15,7 @@ ExerciciosFuncoes (incompleto)
 
 ExerciciosComStrings (incompleto)
 
-ExerciciosArquivos (incompleto)
+ExerciciosArquivos (completo)
 
 ExerciciosClasses (incompleto)
 
